@@ -5,6 +5,8 @@ class Product:
         self.days_remaining = days_remaining
         self.quality = quality
 
+
+
     # RED
     # No code
 
