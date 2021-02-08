@@ -1,5 +1,4 @@
 from pytest_bdd import scenario, given, when, then
-from product import Product
 
 
 @scenario('decay_product.feature', 'Discount product quality over time')
