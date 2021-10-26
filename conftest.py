@@ -1,4 +1,3 @@
-import jupyter
 import pytest
 from product import Product
 
