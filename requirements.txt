@@ -1,3 +1,0 @@
-pytest_bdd==4.0.1
-pytest==6.0.2
-ipykernel==6.4.2

@@ -3,7 +3,9 @@ from product import *
 
 class TestProduct:
     def test_initialize_product(self):
-        assert False
+        product = Product(1, 2)
+        assert product.days_remaining == 1
+        assert product.quality == 2
 
     def test_tick_fresh(self):
         # Quality for a fresh product is decreased by 1
